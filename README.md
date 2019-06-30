@@ -2,6 +2,8 @@
 Using Java and Sql Server to design a student management system
 
 Use two different procedure frame to design the system
+Model: StudentModel
+Interface: AddStudent Interface, UpdateStudent Interface
 
 Model 1: join interface and sql operation together
 Advantage: easy, convenient
